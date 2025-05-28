@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "88a07117379c7ffb",
+        "id": "0ff34457502c0a4f",
         "type": "tabs",
         "children": [
           {
-            "id": "ae3df4fd4802a695",
+            "id": "54bdcb9da54c4564",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/2025-05-28.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2025-05-28"
             }
           }
         ]
@@ -81,71 +85,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c80a2530a87e45",
+        "id": "73d8b78dc9695ceb",
         "type": "tabs",
         "children": [
           {
-            "id": "711871b9f58c26b6",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "f9155ada320b5835",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "d32081634c905d55",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "e67e36f0c61073d5",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
-          {
-            "id": "b0fc44fba14d11e4",
+            "id": "cee231dde588054d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -154,12 +98,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 348.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,13 +115,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0fc44fba14d11e4",
+  "active": "54bdcb9da54c4564",
   "lastOpenFiles": [
-    "System Design/2025-05-21.md",
+    "2025-05-28.md",
+    "Leetcode/2025-05-28.md",
+    "2025-05-26.md",
+    "2025-05-21.md",
+    "System Design/2025-05-28.md",
+    "Images/Screenshot From 2025-05-28 19-21-24.png",
     "System Design/2025-05-22.md",
-    "System Design",
+    "Activity Tracking.md",
+    "Leetcode/2025-05-26.md",
     "Leetcode/2025-05-22.md",
-    "Leetcode/2025-05-21.md",
+    "German/Lektion 17.md",
+    "German/Lektion 16.md",
+    "2025-05-22.md",
+    "German/Lektion 20.md",
+    "German/Lektion 19.md",
+    "German/Lektion 18.md",
+    "German/Lektion 15.md",
+    "German/Lektion 14.md",
+    "German/Lektion 13.md",
+    "German/Lektion 12.md",
+    "German/Lektion 11.md",
+    "German/Lektion 10.md",
+    "German/Lektion 09.md",
+    "Images/Screenshot From 2025-05-28 16-54-05.png",
+    "Images/Screenshot From 2025-05-28 16-53-37.png",
+    "Untitled.md",
+    "System Design/2025-05-26.md",
+    "Behavioral Interviews/2025-05-26.md",
+    "Behavioral Interviews",
+    "Books/SystemDesignInterview.pdf",
+    "Books",
+    "System Design/2025-05-21.md",
+    "System Design",
     "Leetcode",
     "Images/Screenshot From 2025-05-22 19-19-17.png",
     "Images/Screenshot From 2025-05-22 19-14-52.png",
@@ -187,32 +158,12 @@
     "Images/Screenshot From 2025-05-21 19-18-23.png",
     "Images/Screenshot From 2025-05-21 19-10-42.png",
     "Images/Screenshot From 2025-05-21 19-06-41.png",
-    "Images/Screenshot From 2025-05-21 19-06-41 1.png",
-    "Images/Screenshot From 2025-05-21 19-02-43.png",
-    "Images/Screenshot From 2025-05-21 19-01-08.png",
     "Images",
     "home/saadahmsiddiqui/Desktop/github/saadahmsiddiqui",
     "home/saadahmsiddiqui/Desktop/github",
     "home/saadahmsiddiqui/Desktop",
     "home/saadahmsiddiqui",
-    "home",
-    "German/Lektion 15.md",
-    "German/Lektion 14.md",
-    "German/Lektion 13.md",
-    "German/Lektion 11.md",
-    "German/Lektion 12.md",
-    "German/Lektion 10.md",
-    "German/Lektion 09.md",
-    "German",
-    "Activity Tracking.md",
-    "2025-05-22.md",
-    "2025-05-21.md",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Leedcode/2025-05-21.md",
-    "Leedcode",
-    "May 21, 2025 German Practice.md",
-    "create a link.md",
-    "Welcome.md"
+    "Untitled 1.canvas"
   ]
 }
