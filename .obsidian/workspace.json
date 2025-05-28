@@ -11,14 +11,15 @@
             "id": "54bdcb9da54c4564",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Leetcode/2025-05-28.md",
-                "mode": "source",
-                "source": false
+                "aFile": "2025-05-22.md",
+                "bFile": "2025-05-22.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "2025-05-28"
+              "icon": "diff",
+              "title": "Diff: 2025-05-22"
             }
           }
         ]
@@ -117,8 +118,8 @@
   },
   "active": "54bdcb9da54c4564",
   "lastOpenFiles": [
-    "2025-05-28.md",
     "Leetcode/2025-05-28.md",
+    "2025-05-28.md",
     "2025-05-26.md",
     "2025-05-21.md",
     "System Design/2025-05-28.md",
